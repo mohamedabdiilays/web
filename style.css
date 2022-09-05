@@ -1,0 +1,12 @@
+.boxes{
+display: flex;
+    background-color: tomato;
+    margin-top: 1rem;
+    width: 60%;
+
+
+}
+.box1,.box2{
+gap: 10px;
+    margin-top: 1rem;
+}
